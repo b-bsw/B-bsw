@@ -14,7 +14,7 @@
 
 ---
 
-# Sorawit
+# BB ( Sorawit thassadorn )
 
 **Developer · Builder · Explorer**
 
@@ -25,6 +25,7 @@ I enjoy building software, exploring technologies, and understanding how things 
 - Web Development
 - Backend & System Design
 - Linux & Self-hosting
+- DevOps
 
 ### / Tech Stack
 
@@ -52,7 +53,7 @@ Building ideas into practical software.
 
 ### / Elsewhere
 
-[GitHub](https://github.com/yourusername) · [Portfolio](https://b-bsw.com)
+[GitHub](https://github.com/b-bsw) · [Portfolio](https://b-bsw.com)
 
 ---
 
